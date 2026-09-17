@@ -1,6 +1,6 @@
 # DATA VORTEX A'26 — Rebuilding the Social Engine
 
-A data-driven project developed for **DATA VORTEX A'26**, part of **Aaruush 2026, SRM Institute of Science and Technology**.
+
 
 The project focuses on rebuilding different layers of a social-media analytics engine, progressing from data cleaning and analytical SQL to NLP-based semantic understanding.
 
